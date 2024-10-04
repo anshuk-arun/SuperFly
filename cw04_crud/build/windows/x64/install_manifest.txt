@@ -1,0 +1,10 @@
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/anshu/Documents/MAD_CWs/cw04_crud/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
