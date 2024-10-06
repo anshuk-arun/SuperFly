@@ -385,6 +385,9 @@ clear button -> resets everything to default = Passed
 Hit a number, hit clear, hit number again. -> will display new number = Passed
 hit number, hit equals, hit number again -> will display the new number = Passed
 
+Number, operator, a different operator -> will in the backend have the correct operator, but will not show in the front end
+EX 8 * / 4 -> will display 8 * 4 but in backend will be 8 / 4 -> result will be 2
+
 Division works? -> currently works as Integer Division = maybe
 division by 0 -> currently displays 0 -> maybe
 
